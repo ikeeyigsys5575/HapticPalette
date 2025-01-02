@@ -1,6 +1,9 @@
+![Logo](logo.png)
 # HapticPalette
 An Android app allowing developers to test haptic capabilities and options of the `HapticFeedbackConstants` class offered by Android.
 
+
+![Screenshot](screenshot.png)
 # Features
 * Test the following HapticFeedbackConstants:
   * `KEYBOARD_TAP`
