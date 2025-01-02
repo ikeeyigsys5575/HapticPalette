@@ -3,7 +3,7 @@
 # HapticPalette
 An Android app allowing developers to test haptic capabilities and options of the `HapticFeedbackConstants` class offered by Android.
 
-<img src="./screenshot.png" alt="screenshot" width="200"/>
+<img src="./screenshot.png" alt="screenshot" width="350"/>
 
 # Features
 * Test the following HapticFeedbackConstants:
